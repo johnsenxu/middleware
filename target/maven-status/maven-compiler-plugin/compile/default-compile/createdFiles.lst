@@ -1,0 +1,15 @@
+com/alibaba/middleware/race/RaceUtils.class
+com/alibaba/middleware/race/rocketmq/Consumer$1.class
+com/alibaba/middleware/race/model/TableItemFactory.class
+com/alibaba/middleware/race/jstorm/SplitSentence.class
+com/alibaba/middleware/race/jstorm/WordCount.class
+com/alibaba/middleware/race/Tair/TairOperatorImpl.class
+com/alibaba/middleware/race/RaceConfig.class
+com/alibaba/middleware/race/rocketmq/Consumer.class
+com/alibaba/middleware/race/model/OrderMessage.class
+com/alibaba/middleware/race/rocketmq/Producer$1.class
+com/alibaba/middleware/race/jstorm/RaceSentenceSpout.class
+com/alibaba/middleware/race/jstorm/RaceTopology.class
+com/alibaba/middleware/race/model/PaymentMessage.class
+com/alibaba/middleware/race/rocketmq/Producer.class
+com/alibaba/middleware/race/rocketmq/Producer$2.class
